@@ -16,4 +16,4 @@ Ekran görüntülerinde detaylandırıldığı üzere şu kısıtlamalar uygulan
 * **Reset account lockout counter after (30 minutes):** Hatalı deneme sayacı her 30 dakikada bir sıfırlanır.
 
 ## 🚀 Teknik Kazanım
-Bu hardening (sıkılaştırma) çalışmasıyla, domain ortamındaki kullanıcı hesaplarının ele geçirilme riskini minimize ettim ve saldırı maliyetini artırarak sistem güvenliğini üst seviyeye çıkardım.
+Bu sıkılaştırma çalışmasıyla, domain ortamındaki kullanıcı hesaplarının ele geçirilme riskini minimize ettim ve saldırı maliyetini artırarak sistem güvenliğini üst seviyeye çıkardım.
