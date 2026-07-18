@@ -1,3 +1,9 @@
+## 🖼️ Ekran Görüntüsü
+
+> Forward Lookup Zone menüsü ve DNS kayıt türleri.
+
+![Forward Lookup Zones](Forward-Lookup-Zones.png)
+
 # Forward Lookup Zones
 
 ## 📖 Nedir?
@@ -72,9 +78,3 @@ Bu lab ortamında;
 - DNSSEC menüsü incelendi.
 
 ---
-
-## 🖼️ Ekran Görüntüsü
-
-> Forward Lookup Zone menüsü ve DNS kayıt türleri.
-
-![Forward Lookup Zones](Forward-Lookup-Zones.png)
