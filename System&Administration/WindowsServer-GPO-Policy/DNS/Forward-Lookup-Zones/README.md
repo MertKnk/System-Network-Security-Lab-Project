@@ -65,16 +65,3 @@ SRV, PTR, TXT ve NS gibi diğer DNS kayıt türlerini oluşturmak için kullanı
 DNS kayıtlarını dijital olarak imzalayarak DNS güvenliğini artırır ve sahte DNS cevaplarını engellemeye yardımcı olur.
 
 ---
-
-## 🧪 Lab Çalışması
-
-Bu lab ortamında;
-
-- Forward Lookup Zone incelendi.
-- A ve AAAA kayıtları incelendi.
-- CNAME kaydı oluşturuldu.
-- MX kaydı oluşturuldu.
-- Delegation yapısı incelendi.
-- DNSSEC menüsü incelendi.
-
----
